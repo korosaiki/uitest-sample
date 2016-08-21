@@ -1,0 +1,32 @@
+{
+  "name": "uitest-sample",
+  "version": "0.1.0",
+  "description": "uitest-sample",
+  "keywords": [
+    "uitest",
+    "sample"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xudafeng/uitest-sample.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "pre-commit": "1.1.1",
+    "should": "^11.1.0",
+    "uitest": "^1.1.4"
+  },
+  "scripts": {
+    "test": "make test",
+    "jshint": "make jshint"
+  },
+  "pre-commit": [
+    "jshint"
+  ],
+  "homepage": "https://github.com/xudafeng/uitest-sample",
+  "author": "xudafeng",
+  "email": "xudafeng@126.com",
+  "blog": "http://xdf.me",
+  "license": "MIT"
+}
