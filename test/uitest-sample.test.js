@@ -1,16 +1,3 @@
-/* ================================================================
- * uitest-sample by xdf(xudafeng[at]126.com)
- *
- * first created at : Sun Aug 21 2016 21:38:46 GMT+0800 (CST)
- *
- * ================================================================
- * Copyright  xdf
- *
- * Licensed under the MIT License
- * You may not use this file except in compliance with the License.
- *
- * ================================================================ */
-
 'use strict';
 
 const path = require('path');
@@ -25,7 +12,7 @@ uitest({
   hidpi: false,
   useContentSize: true
 }).then(() => {
-  console.log('uitest success')
+  console.log('uitest success');
 }).catch(() => {
-  console.log('uitest error')
+  console.log('uitest error');
 });
