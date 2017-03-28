@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/macacajs/uitest-sample.git"
+    "url": "git://github.com/macaca-sample/uitest-sample.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -24,6 +24,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/macacajs/uitest-sample",
+  "homepage": "https://github.com/macaca-sample/uitest-sample",
   "license": "MIT"
 }

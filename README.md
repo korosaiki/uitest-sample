@@ -8,10 +8,10 @@
 
 [npm-image]: https://img.shields.io/npm/v/uitest-sample.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/uitest-sample
-[travis-image]: https://img.shields.io/travis/macacajs/uitest-sample.svg?style=flat-square
-[travis-url]: https://travis-ci.org/macacajs/uitest-sample
-[coveralls-image]: https://img.shields.io/coveralls/macacajs/uitest-sample.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/macacajs/uitest-sample?branch=master
+[travis-image]: https://img.shields.io/travis/macaca-sample/uitest-sample.svg?style=flat-square
+[travis-url]: https://travis-ci.org/macaca-sample/uitest-sample
+[coveralls-image]: https://img.shields.io/coveralls/macaca-sample/uitest-sample.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/macaca-sample/uitest-sample?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/uitest-sample.svg?style=flat-square
@@ -25,7 +25,7 @@
 $ npm i uitest --save-dev
 ```
 
-- [Macaca UITest](https://github.com/macacajs/uitest)
+- [Macaca UITest](//macacajs.github.io/pageuitest)
 
 ## License
 
